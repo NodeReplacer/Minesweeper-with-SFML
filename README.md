@@ -1,2 +1,2 @@
-# Minesweeper-with-SFML
-Creating Minesweeper in C++
+# Minesweeper
+ Minesweeper in C++
