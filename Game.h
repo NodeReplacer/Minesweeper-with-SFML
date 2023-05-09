@@ -2,6 +2,9 @@
 #define MINESWEEPER_GAME_H
 
 #include <SFML/Graphics.hpp>
+#include <random>
+#include <chrono>
+#include <iostream>
 
 class Game {
 private:
@@ -9,6 +12,11 @@ private:
     int fieldWidth = 32;
     int gameGrid[12][12]; // For the game to use to keep track of itself.
     int displayGrid[12][12]; // For actually displaying.
+    int clickX,clickY; //The x and y values of the user's selection. 
+    
+    //////////////////Establish randomizer////////////////////
+    std::mt19937 randomGenerator;
+    std::uniform_int_distribution<int> mineRand; //Select a random mine for the game.
     
     sf::Event event;
     
@@ -21,8 +29,8 @@ public:
     
     Game();
     virtual ~Game();
-    void update();
-    void render();
+    void Update();
+    void Render();
 };
 
 

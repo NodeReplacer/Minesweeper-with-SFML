@@ -4,8 +4,9 @@
 int main() {
     Game game;
     
-    if (game.IsRunning()) {
-        game.update();
-        game.render();
+    while (game.IsRunning()) {
+        game.Update();
+        game.Render();
     }
+    return 0;
 }

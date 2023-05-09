@@ -1,5 +1,17 @@
 # ninja log v5
-8	810	7052841640000000	CMakeFiles/Minesweeper.dir/Game.cpp.obj	e82b603d5c8077dc
-6	728	7052838380000000	CMakeFiles/Minesweeper.dir/main.cpp.obj	e7f161a6810df66e
-811	1833	7052841640000000	Minesweeper.exe	b1ce74c929336290
-3	331	7052841780000000	build.ninja	918a3db625584cca
+12	872	7052867040000000	CMakeFiles/Minesweeper.dir/Game.cpp.obj	e82b603d5c8077dc
+7	827	7052867040000000	CMakeFiles/Minesweeper.dir/main.cpp.obj	e7f161a6810df66e
+872	2022	7052867040000000	Minesweeper.exe	b1ce74c929336290
+3	331	7052867100000000	build.ninja	918a3db625584cca
+7	715	7052872880000000	CMakeFiles/Minesweeper.dir/main.cpp.obj	e7f161a6810df66e
+716	1753	7052872880000000	Minesweeper.exe	b1ce74c929336290
+7	1030	7052898140000000	CMakeFiles/Minesweeper.dir/main.cpp.obj	e7f161a6810df66e
+11	1179	7052898140000000	CMakeFiles/Minesweeper.dir/Game.cpp.obj	e82b603d5c8077dc
+1180	2281	7052898160000000	Minesweeper.exe	b1ce74c929336290
+6	929	7052905640000000	CMakeFiles/Minesweeper.dir/Game.cpp.obj	e82b603d5c8077dc
+930	1946	7052905660000000	Minesweeper.exe	b1ce74c929336290
+4	926	7052905960000000	CMakeFiles/Minesweeper.dir/Game.cpp.obj	e82b603d5c8077dc
+926	1909	7052905980000000	Minesweeper.exe	b1ce74c929336290
+7	1133	7052920960000000	CMakeFiles/Minesweeper.dir/main.cpp.obj	e7f161a6810df66e
+6	1081	7052921080000000	CMakeFiles/Minesweeper.dir/Game.cpp.obj	e82b603d5c8077dc
+1082	2229	7052921080000000	Minesweeper.exe	b1ce74c929336290

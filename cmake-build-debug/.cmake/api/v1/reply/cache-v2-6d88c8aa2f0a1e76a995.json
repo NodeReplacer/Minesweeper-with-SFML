@@ -1342,6 +1342,42 @@
 			"value" : "SFML_DOC_DIR-NOTFOUND"
 		},
 		{
+			"name" : "Test_Project_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "G:/Personal Projects/C++ Projects/Minesweeper/cmake-build-debug"
+		},
+		{
+			"name" : "Test_Project_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Test_Project_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "G:/Personal Projects/C++ Projects/Minesweeper"
+		},
+		{
 			"name" : "VorbisEnc_LIB",
 			"properties" : 
 			[

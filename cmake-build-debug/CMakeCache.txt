@@ -257,6 +257,15 @@ OpenAL_LIB:FILEPATH=G:/Personal Projects/C++ Projects/Minesweeper/SFML/lib/libop
 //Path to a file.
 SFML_DOC_DIR:PATH=SFML_DOC_DIR-NOTFOUND
 
+//Value Computed by CMake
+Test_Project_BINARY_DIR:STATIC=G:/Personal Projects/C++ Projects/Minesweeper/cmake-build-debug
+
+//Value Computed by CMake
+Test_Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Test_Project_SOURCE_DIR:STATIC=G:/Personal Projects/C++ Projects/Minesweeper
+
 //Path to a library.
 VorbisEnc_LIB:FILEPATH=G:/Personal Projects/C++ Projects/Minesweeper/SFML/lib/libvorbisenc.a
 
